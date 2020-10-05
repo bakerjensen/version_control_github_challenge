@@ -1,0 +1,19 @@
+1. Explain what the terminal is in your own words.
+
+The terminal is essentially this all powerful tool that helps you optimize use of your 
+computer. It allows you to easily be a puppet master for your computer's file
+systems.
+
+
+2. What is the major difference between Git and Github?
+
+Git is just the version control system that helps to keep track of code history 
+however GitHub helps with version control while adding the benefit of cloud based 
+storage meaning multiple programmers can interact with the same code in different places
+like a shared Google Doc for developers.
+
+
+3. Why do we use Github?
+
+We use Github because it allows us to easily track and share code, and its public 
+nature makes it a prime resource for future employer's judgements of our capabilities.
